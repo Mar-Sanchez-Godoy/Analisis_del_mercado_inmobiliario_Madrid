@@ -42,9 +42,9 @@ Proyecto dedicado al analisis de la evolucion del mercado inmobiliario en Madrid
 
 ## KPIs clave
 
-- El distrito con mayor crecimiento acumulado es Salamanca (+3,43%).
+- Distrito con mayor crecimiento: Salamanca (+85,68% acumulado total / CAGR del +3,71% anual)
 - El distrito con peor evolución es Villaverde (-1,0%).
-- El mejor año del mercado fue 2018 (+14,81%).
+- El mejor año del mercado fue 2018 (+14,81% en promedio).
 - El peor año fue 2012 (-9,32%).
 - La tendencia general del mercado es alcista, con un crecimiento medio anual del 1,99%.
 
