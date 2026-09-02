@@ -1,9 +1,6 @@
-# Analisis_del_mercado_inmobiliario_Madrid
-Proyecto dedicado al analisis de la evolucion del precio por m2 en Madrid desde el 2007 hasta el 2024 basado en datos estatales (Ayuntamiento de madrid e INE)
+# Analisis de mercado inmobiliario – Madrid (2007–2026)
 
-# Analisis de mercado inmobiliario – Madrid (2007–2024)
-
-Análisis del mercado inmobiliario en Madrid utilizando Sheets y Power BI, con limpieza de datos, modelado, visualización avanzada y conclusiones orientadas a negocio.
+Proyecto dedicado al analisis de la evolucion del mercado inmobiliario en Madrid utilizando Sheets y Power BI, con limpieza de datos, modelado, visualización avanzada y conclusiones orientadas a negocio.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811)
 
@@ -15,7 +12,9 @@ Análisis del mercado inmobiliario en Madrid utilizando Sheets y Power BI, con l
 
 ## Objetivo del proyecto
 
-Comprender la evolución del precio por metro cuadrado (m²) en los distritos de Madrid entre 2007 y 2024, identificando:
+- Comprender la evolución del precio por metro cuadrado (m²) en los distritos de Madrid entre 2007 y 2024, identificando patrones históricos para evaluar las tendencias futuras del mercado y determinar la viabilidad de la compra de vivienda en Madrid como inversión, tanto para particulares como para inversores.
+
+### Metodologia:
 
 - Variación anual del mercado
 - Distritos con mayor y menor crecimiento
@@ -41,7 +40,7 @@ Comprender la evolución del precio por metro cuadrado (m²) en los distritos de
 </p>
 
 
-## Conclusiones clave
+## KPIs clave
 
 - El distrito con mayor crecimiento acumulado es Salamanca (+3,43%).
 - El distrito con peor evolución es Villaverde (-1,0%).
