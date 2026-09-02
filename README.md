@@ -25,17 +25,17 @@ Proyecto dedicado al analisis de la evolucion del mercado inmobiliario en Madrid
 
 🟦 Página 1 — Ranking de precios por distrito
 <p align="center">
-<img src="Images/Visualizacion_Ranking por distritos.png" width="750">
+<img src="Imagenes/Ranking.png" width="750">
 </p>
 
 🟦 Página 2 — Mapa de calor por distrito y año
 <p align="center">
-<img src="Images/Visualizacion_Heatmap.png" width="750">
+<img src="Imagenes/Mapa de calor.png" width="750">
 </p>
 
 🟦 Página 3 — Conclusiones clave + Variación YoY
 <p align="center">
-<img src="Images/Visualizacion_Conclusiones y tendencia" width="750">
+<img src="Imagenes/Conclusiones" width="750">
 </p>
 
 
