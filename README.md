@@ -35,7 +35,7 @@ Proyecto dedicado al analisis de la evolucion del mercado inmobiliario en Madrid
 
 🟦 Página 3 — Conclusiones clave + Variación YoY
 <p align="center">
-<img src="Imagenes/Conclusiones" width="750">
+<img src="Imagenes/Conclusiones.png" width="750">
 </p>
 
 
