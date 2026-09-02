@@ -1,9 +1,6 @@
 # Analisis_del_mercado_inmobiliario_Madrid
 Proyecto dedicado al analisis de la evolucion del precio por m2 en Madrid desde el 2007 hasta el 2024 basado en datos estatales (Ayuntamiento de madrid e INE)
 
-# Castellano
-
-
 # Analisis de mercado inmobiliario – Madrid (2007–2024)
 
 Análisis del mercado inmobiliario en Madrid utilizando Sheets y Power BI, con limpieza de datos, modelado, visualización avanzada y conclusiones orientadas a negocio.
