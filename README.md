@@ -1,6 +1,11 @@
 # Analisis de mercado inmobiliario – Madrid (2007–2026)
 
-Proyecto dedicado al analisis de la evolucion del mercado inmobiliario en Madrid utilizando Sheets y Power BI, con limpieza de datos, modelado, visualización avanzada y conclusiones orientadas a negocio.
+
+## Objetivo del proyecto
+
+Comprender la evolución del precio por metro cuadrado (m²) en los distritos de Madrid entre 2007 y 2024, identificando patrones históricos para evaluar las tendencias futuras del mercado y determinar la viabilidad de la compra de vivienda en Madrid como inversión, tanto para particulares como para inversores.
+
+Proyecto dedicado al analisis de la evolucion del mercado inmobiliario en Madrid utilizando Google Sheets y Power BI. Limpieza de datos, modelado, visualización avanzada y conclusiones orientadas a negocio.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811)
 
@@ -8,18 +13,12 @@ Proyecto dedicado al analisis de la evolucion del mercado inmobiliario en Madrid
 
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Data%20Cleaning-34A853)
 
+### Datos, métricas y estadisticas utilizados:
 
-
-## Objetivo del proyecto
-
-Comprender la evolución del precio por metro cuadrado (m²) en los distritos de Madrid entre 2007 y 2024, identificando patrones históricos para evaluar las tendencias futuras del mercado y determinar la viabilidad de la compra de vivienda en Madrid como inversión, tanto para particulares como para inversores.
-
-### Metodologia:
-
-- Variación anual del mercado
-- Distritos con mayor y menor crecimiento
-- Patrones de comportamiento por zona
-- Tendencias útiles para compradores, inversores y analistas
+- Variación anual del mercado.
+- Distritos con mayor y menor crecimiento.
+- Patrones de comportamiento por zona.
+- Tendencias útiles para compradores, inversores y analistas.
 
 
 ## Vista previa del Panel de visualización
@@ -43,7 +42,7 @@ Comprender la evolución del precio por metro cuadrado (m²) en los distritos de
 ## KPIs clave
 
 - Distrito con mayor crecimiento: Salamanca (+85,68% acumulado total / CAGR del +3,71% anual)
-- El distrito con peor evolución es Villaverde (-1,0%).
+- El distrito con peor evolución es Villaverde 
 - El mejor año del mercado fue 2018 (+14,81% en promedio).
 - El peor año fue 2012 (-9,32%).
 - La tendencia general del mercado es alcista, con un crecimiento medio anual del 1,99%.
