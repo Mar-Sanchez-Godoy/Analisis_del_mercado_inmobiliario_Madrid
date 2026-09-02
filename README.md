@@ -12,7 +12,7 @@ Proyecto dedicado al analisis de la evolucion del mercado inmobiliario en Madrid
 
 ## Objetivo del proyecto
 
-- Comprender la evolución del precio por metro cuadrado (m²) en los distritos de Madrid entre 2007 y 2024, identificando patrones históricos para evaluar las tendencias futuras del mercado y determinar la viabilidad de la compra de vivienda en Madrid como inversión, tanto para particulares como para inversores.
+Comprender la evolución del precio por metro cuadrado (m²) en los distritos de Madrid entre 2007 y 2024, identificando patrones históricos para evaluar las tendencias futuras del mercado y determinar la viabilidad de la compra de vivienda en Madrid como inversión, tanto para particulares como para inversores.
 
 ### Metodologia:
 
