@@ -28,12 +28,17 @@ Proyecto dedicado al analisis de la evolucion del mercado inmobiliario en Madrid
 <img src="Imagenes/Portada.png" width="750">
 </p>
 
-🟦 Página 2 — Mapa de calor
+🟦 Página 2 — Precios por m2
+<p align="center">
+<img src="Imagenes/Precios m2.png" width="750">
+</p>
+
+🟦 Página 3 - Mapa de calor
 <p align="center">
 <img src="Imagenes/Mapa de calor 1.2.png" width="750">
 </p>
 
-🟦 Página 3 — Conclusiones objetivas
+🟦 Página 4 — Conclusiones objetivas
 <p align="center">
 <img src="Imagenes/Conclusiones objetivas.png" width="750">
 </p>
