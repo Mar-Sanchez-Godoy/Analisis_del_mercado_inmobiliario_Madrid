@@ -46,8 +46,8 @@ Proyecto dedicado al analisis de la evolucion del mercado inmobiliario en Madrid
 
 ## KPIs clave
 
-- Distrito con mayor crecimiento: Salamanca (+85,68% acumulado total / CAGR del +3,71% anual)
-- El distrito con peor evolución es Villaverde 
+- Distrito con mayor crecimiento: Salamanca (+65% acumulado total / CAGR del +3% anual)
+- El distrito con peor evolución es Villaverde (-21% acumulado total / CAGR del -1% anual)
 - El mejor año del mercado fue 2018 (+14,81% en promedio).
 - El peor año fue 2012 (-9,32%).
 - La tendencia general del mercado es alcista, con un crecimiento medio anual del 1,99%.
@@ -75,8 +75,9 @@ https://servpub.madrid.es/CSEBD_WBINTER/seleccionSerie.html?numSerie=05040300001
 
 4. Visualización
 
-- Ranking de precios por distrito
-- Mapa de calor de evolución anual
+- Portada
+- Promedio precio m2
+- Mapa de calor
 - Conclusiones automáticas generadas con DAX
 - Tema visual estilo consultora
 
@@ -100,6 +101,7 @@ Código: Real-Estate-Madrid-Analysis/
 - Datos inmobiliarios - Visualizacion.pdf
 - Datos inmobiliarios.pbix
 - Precios historicos Madrid - Ayuntamiento.xlsx
+- Proyecto de analisis inmobiliario -  PowerBI.pbix
 
 
  README.md
