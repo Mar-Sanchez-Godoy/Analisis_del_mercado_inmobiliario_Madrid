@@ -15,6 +15,8 @@ Proyecto dedicado al analisis de la evolucion del mercado inmobiliario en Madrid
 
 ### Datos, métricas y estadisticas utilizados:
 
+Tomados de la pagina oficial del INE.
+
 - Variación anual del mercado.
 - Distritos con mayor y menor crecimiento.
 - Patrones de comportamiento por zona.
@@ -56,10 +58,12 @@ Proyecto dedicado al analisis de la evolucion del mercado inmobiliario en Madrid
 ## Proceso del análisis
 
 1. Recolección del dataset CSV
-Datos oficiales del Ayuntamiento de Madrid:
+Datos oficiales de precios promedio de venta por el Ayuntamiento de Madrid:
 https://servpub.madrid.es/CSEBD_WBINTER/seleccionSerie.html?numSerie=0504030000152
+Datos de venta de viviendas del INE:
+https://www.ine.es/jaxiT3/Tabla.htm?t=6150
 
-2. Limpieza y transformación en Google Sheets y Power Query
+3. Limpieza y transformación en Google Sheets y Power Query
 
 - Normalización de columnas
 - Corrección de valores atípicos
