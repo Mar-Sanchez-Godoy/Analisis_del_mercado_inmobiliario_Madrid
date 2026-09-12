@@ -27,7 +27,7 @@ Tomados de la pagina oficial del INE.
 
 🟦 Página 1 — Portada
 <p align="center">
-<img src="Imagenes/Portada.png" width="750">
+<img src="Imagenes/Portada 1.2.1.png" width="750">
 </p>
 
 🟦 Página 2 — Precios por m2
